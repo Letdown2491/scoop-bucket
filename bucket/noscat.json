@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Like netcat, but over a Nostr-native mesh: npub-addressed tunnels, no root, no accounts. Identity-addressed encrypted tunnels over UDP with NAT hole punching; Nostr relays are only the discovery channel.",
     "homepage": "https://github.com/Letdown2491/noscat",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Letdown2491/noscat/releases/download/v0.2.0/noscat-v0.2.0-windows-amd64.zip",
-            "hash": "fbc56aeb5f4e878d31f4868e79686811c6b8b16c9c7fcf5ee409cd7f90ba74f6"
+            "url": "https://github.com/Letdown2491/noscat/releases/download/v0.3.0/noscat-v0.3.0-windows-amd64.zip",
+            "hash": "efc2ac4dd1adbcde44446e6976e62ccbaf3eadb726d62070a7553a8b9b7565ae"
         }
     },
     "bin": "noscat.exe",
