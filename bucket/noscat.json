@@ -1,12 +1,12 @@
 {
-    "version": "0.4.3",
-    "description": "Like netcat, but over a Nostr-native mesh: npub-addressed tunnels, no root, no accounts. Identity-addressed encrypted tunnels over UDP with NAT hole punching; Nostr relays are only the discovery channel.",
+    "version": "0.5.0",
+    "description": "Like netcat, but over your own device mesh: npub-addressed, end-to-end encrypted, no root, no accounts. Membership is a Marmot (MLS) group on Nostr relays; data goes device to device over FIPS.",
     "homepage": "https://github.com/Letdown2491/noscat",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Letdown2491/noscat/releases/download/v0.4.3/noscat-v0.4.3-windows-amd64.zip",
-            "hash": "ee49a09c659634b2aed9a09420159bdac71a272c6752e93008ae1d056be1922d"
+            "url": "https://github.com/Letdown2491/noscat/releases/download/v0.5.0/noscat-v0.5.0-windows-amd64.zip",
+            "hash": "93e943b6053fca80d521690fd113d816f2012c16ff769c4889c01263a7492ca2"
         }
     },
     "bin": "noscat.exe",
