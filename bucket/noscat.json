@@ -1,12 +1,12 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "description": "Like netcat, but over your own device mesh: npub-addressed, end-to-end encrypted, no root, no accounts. Membership is a Marmot (MLS) group on Nostr relays; data goes device to device over FIPS.",
     "homepage": "https://github.com/Letdown2491/noscat",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Letdown2491/noscat/releases/download/v0.5.0/noscat-v0.5.0-windows-amd64.zip",
-            "hash": "93e943b6053fca80d521690fd113d816f2012c16ff769c4889c01263a7492ca2"
+            "url": "https://github.com/Letdown2491/noscat/releases/download/v0.6.0/noscat-v0.6.0-windows-amd64.zip",
+            "hash": "f5c090ca7622c1037dd0117f1337dc643c6c7cc5c47d5a39faf946c680e60089"
         }
     },
     "bin": "noscat.exe",
